@@ -1,8 +1,41 @@
+  # Site settings
+title: My GitHub Page
+email: your-email@example.com
+description: >- # This means to ignore newlines until "baseurl:"
+  A simple description of my GitHub Pages site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+
+# Optional settings
+author:
+  name: Your Name
+  email: your-email@example.com
+
+# Plugins
 plugins:
+  - jekyll-feed
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Social media icons (optional)
+social_links:
+  twitter: your-twitter-handle
+  github: your-github-username
+
+# Google Analytics (optional)
+google_analytics: UA-XXXXXXXX-X
+
 include:
   - CONTRIBUTING.md
   - README.md
@@ -12,3 +45,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+# Exclude from processing (optional)
+exclude:
+  - README.md
