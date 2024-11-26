@@ -1,9 +1,9 @@
   # Site settings
-title: My GitHub Page
-email: your-email@example.com
+title: Endurance Base
+# email: your-email@example.com
 description: >- # This means to ignore newlines until "baseurl:"
-  A simple description of my GitHub Pages site.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Lose zusammenhängendes Wissen bezüglich Ausdauersport.
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourusername.github.io" # the base hostname & protocol for your site
 
 # Build settings
@@ -24,9 +24,9 @@ relative_links:
   collections: true
 
 # Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: GFM
+# kramdown:
+ # input: GFM
 
 # Social media icons (optional)
 social_links:
