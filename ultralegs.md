@@ -21,7 +21,7 @@ Welcome to Ultra Legs! This strength routine has been developed over a few years
 > How to use Ultra Legs:
 > - do this routine 2-3 x per week, making sure you have an easy day of training afterward
 > - you can add the Mountain Legs routine (   • Three-Minute Mountain Legs  ) on 2 other days
->- this routine differs from Speed Legs (   • 8-Minute Speed Legs  ) in that it has a heavier emphasis on hamstring and glute strength
+> - this routine differs from Speed Legs (   • 8-Minute Speed Legs  ) in that it has a heavier emphasis on hamstring and glute strength
 > - as you get stronger, you can increase the weight using a heavy kettlebell or add another set of the exercises. But remember, the goal is to be good at running, not to get better and better at strength work until you’re split squatting a Honda Civic.
 > - the goal is a routine that is as short as possible while being as effective as possible. If you’re going to add other exercises, consider squats and deadlifts, which may be especially beneficial for aging athletes and those with low bone density. Lift that Honda Civic to the moon!
 > - when you start the routine, expect to get sore for a week or two. Dial back your running training intensity in that time, since your blood may be a toxic waste dump of creatine kinase.
@@ -71,5 +71,6 @@ Sunday: easy run and hill strides plus ULTRA LEGS
 * mit _**'optional weight'**_ ist daher immer nur ein leichtes Zusatzgewicht gemeint
 
 ### Analyse
-* der Fokus liegt auf Kraftausader, Stabilität und etwas Mobilität
+
+* der Fokus liegt auf Kraftausdauer, Stabilität und etwas Mobilität
 * nicht beachtet werden Maximalkraft, Hpyertrophie und Explosivkraft
